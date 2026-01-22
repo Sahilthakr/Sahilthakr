@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Sahil Thakur!
 
 ## 🎓 About Me
-
 I'm a **Master of Computer Applications (MCA)** graduate from **Lovely Professional University (LPU)**, specializing in **Back-End Development** with the **.NET Framework**. I'm passionate about building scalable, efficient, and robust solutions that solve real-world problems.
 
 With a strong foundation in software engineering principles and hands-on experience in **C#**, **.NET technologies**, and **full-stack development**, I constantly explore emerging technologies to stay at the forefront of innovation.
@@ -20,12 +19,37 @@ With a strong foundation in software engineering principles and hands-on experie
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilthakr&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahilthakr&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilthakr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahilthakr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilnetdev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sahiltenz)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/sahil6343)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/sahilThakur0)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Sahilthakr)
 
 ---
 
@@ -33,15 +57,12 @@ With a strong foundation in software engineering principles and hands-on experie
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
@@ -61,3 +82,19 @@ With a strong foundation in software engineering principles and hands-on experie
 
 ---
 
+### ✍️ Random Dev Quote
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Let's build something amazing together!
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=Sahilthakr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
