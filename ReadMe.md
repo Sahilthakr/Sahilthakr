@@ -69,7 +69,7 @@ public class SahilThakur : Developer
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/NET Framework.png" width="48" height="48" alt=".NET"/>
+      <img src="https://images.icon-icons.com/2415/PNG/512/dot_net_original_logo_icon_146546.png" width="48" height="48" alt=".NET"/>
       <br><strong>Advanced .NET</strong>
       <br><sub>Design patterns, Performance tuning</sub>
     </td>
