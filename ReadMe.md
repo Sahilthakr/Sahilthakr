@@ -112,26 +112,6 @@ public class SahilThakur : Developer
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahilthakr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔥 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sahilthakr/Sahilthakr/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -176,12 +156,3 @@ public class SahilThakur : Developer
 
 ---
 
-<div align="center">
-  
-### 💬 Let's build something amazing together!
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sahilthakr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</div>
